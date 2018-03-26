@@ -1,0 +1,47 @@
+{
+    "theatre": {
+      "theatre_id": "1",
+      "theatre_name": "janta cinema",
+      "auditorium": {
+        "auditoriam_id": "1",
+        "movie": {
+          "movie_id": "1",
+          "genere": "",
+          "director": "",
+          "cast": [],
+          "duration": ""
+        }
+      },
+      "seating_details": {
+        "seating_class1": {
+          "row1": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "F"
+          ],
+          "row2": [],
+          "row3": []
+        },
+        "seating_class2": {
+          "row1": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "F"
+          ],
+          "row2": [],
+          "row3": []
+        }
+      },
+      "location": {
+        "locality": "",
+        "city": "",
+        "state": "",
+        "pincode": ""
+      },
+      "price": "100"
+    }
+  }
